@@ -16,10 +16,10 @@ The Sorting Visualizer allows users to see real-time animations of different sor
 -Full-Stack Deployment: The backend is containerized with Docker and deployed on Render, while the frontend is deployed on Vercel.
 
 # Tech-Stack
-  # Frontend:
+- # Frontend:
   - CSS: For custom styling and animations (including modern gradients, transitions, and hover effects).
   - Javascrip(React): for building an interactive UI
-  # Backend: 
+- # Backend: 
   - Java Spring Boot:  For creating RESTful APIs that process sorting algorithms.
   - Maven: For dependency management and building the application.
   - Docker: For containerizing the backend application.
