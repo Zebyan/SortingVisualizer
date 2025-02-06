@@ -1,6 +1,6 @@
 # SortingVisualizer: https://sorting-visualizer-sigma-sandy.vercel.app/
--!!! The backend server might take a bit longer to start (it's a free hosting plan).
--! Please keep in mind that bubble and selection sort are slower algorithms O(n^2), so be carefull when adjusting the delay.
+- !!! The backend server might take a bit longer to start (it's a free hosting plan).
+- !Please keep in mind that bubble and selection sort are slower algorithms O(n^2), so be carefull when adjusting the delay.
 
 # Overview
 The Sorting Visualizer allows users to see real-time animations of different sorting algorithms as they work on random arrays. The application consists of:
@@ -32,11 +32,11 @@ The Sorting Visualizer allows users to see real-time animations of different sor
 # How does it work?
   - When one of the sorting buttons is clicked, a post request is sent to our backend:
   -   eg:{
-  "algorithm": "quick",  // Options: "quick", "merge", "bubble", "selection"
-  "array": [5, 2, 6, 3, 1]
+  - "algorithm": "quick",  // Options: "quick", "merge", "bubble", "selection"
+  - "array": [5, 2, 6, 3, 1]
 }
  # Response: A JSON array of sort steps, with each step containing:
-  "array": The current state of the array.
-  "index1" and "index2": The indices involved in the current step.
-  "swapped": Boolean indicating if a swap occurred.
-  "sorted": Boolean indicating if the element(s) are in their final sorted position.
+  - "array": The current state of the array.
+  - "index1" and "index2": The indices involved in the current step.
+  - "swapped": Boolean indicating if a swap occurred.
+  - "sorted": Boolean indicating if the element(s) are in their final sorted position.
