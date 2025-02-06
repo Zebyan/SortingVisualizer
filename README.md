@@ -1,5 +1,5 @@
 # SortingVisualizer: https://sorting-visualizer-sigma-sandy.vercel.app/
-- !!! The backend server might take a bit longer to start (it's a free hosting plan).
+- !!! The backend server might take a bit longer to start (it's a free hosting plan, up to 50s seconds), after it should be working fine.
 - !Please keep in mind that bubble and selection sort are slower algorithms O(n^2), so be carefull when adjusting the delay.
 
 # Overview
