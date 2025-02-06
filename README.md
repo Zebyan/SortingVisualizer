@@ -5,15 +5,15 @@
 # Overview
 The Sorting Visualizer allows users to see real-time animations of different sorting algorithms as they work on random arrays. The application consists of:
 
-  -Frontend: A React application that provides a modern, tech-inspired UI with animated sorting visualizations, adjustable array sizes, speed controls, and a tutorial overlay for first-time users.
-  -Backend: A Spring Boot (Java) API that processes sorting requests and returns step-by-step sorting steps for multiple algorithms (Quick Sort, Merge Sort, Bubble Sort, Selection Sort).
+  - Frontend: A React application that provides a modern, tech-inspired UI with animated sorting visualizations, adjustable array sizes, speed controls, and a tutorial overlay for first-time users.
+  - Backend: A Spring Boot (Java) API that processes sorting requests and returns step-by-step sorting steps for multiple algorithms (Quick Sort, Merge Sort, Bubble Sort, Selection Sort).
 
 #Features
--Multiple Sorting Algorithms: Quick Sort, Merge Sort, Bubble Sort, and Selection Sort.
--Step-by-Step Animation: The frontend animates each step of the sorting process with visual cues (color changes for comparisons->yellow, swaps->red, and sorted elements->green).
--Customizable Controls: Users can adjust array size and sorting speed using slider controls.
--Modern UI: The app features a sleek, tech-inspired design with gradient backgrounds, bouncing animations for the header, and stylish buttons.
--Full-Stack Deployment: The backend is containerized with Docker and deployed on Render, while the frontend is deployed on Vercel.
+- Multiple Sorting Algorithms: Quick Sort, Merge Sort, Bubble Sort, and Selection Sort.
+- Step-by-Step Animation: The frontend animates each step of the sorting process with visual cues (color changes for comparisons->yellow, swaps->red, and sorted elements->green).
+- Customizable Controls: Users can adjust array size and sorting speed using slider controls.
+- Modern UI: The app features a sleek, tech-inspired design with gradient backgrounds, bouncing animations for the header, and stylish buttons.
+- Full-Stack Deployment: The backend is containerized with Docker and deployed on Render, while the frontend is deployed on Vercel.
 
 # Tech-Stack
 - # Frontend:
