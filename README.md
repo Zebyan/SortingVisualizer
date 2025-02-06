@@ -1,5 +1,6 @@
 # SortingVisualizer: https://sorting-visualizer-sigma-sandy.vercel.app/
-
+-!!! The backend server might take a bit longer to start (it's a free hosting plan).
+-! Please keep in mind that bubble and selection sort are slower algorithms O(n^2), so be carefull when adjusting the delay.
 
 # Overview
 The Sorting Visualizer allows users to see real-time animations of different sorting algorithms as they work on random arrays. The application consists of:
