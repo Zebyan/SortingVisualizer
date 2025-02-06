@@ -1,1 +1,1 @@
-# SortingVisualizer https://sorting-visualizer-sigma-sandy.vercel.app/
+# SortingVisualizer: https://sorting-visualizer-sigma-sandy.vercel.app/
