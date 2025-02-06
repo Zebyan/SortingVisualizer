@@ -35,7 +35,7 @@ The Sorting Visualizer allows users to see real-time animations of different sor
   - "algorithm": "quick",  // Options: "quick", "merge", "bubble", "selection"
   - "array": [5, 2, 6, 3, 1]
 }
- # Response: A JSON array of sort steps, with each step containing:
+ # Response: A JSON object of sort steps, with each step containing:
   - "array": The current state of the array.
   - "index1" and "index2": The indices involved in the current step.
   - "swapped": Boolean indicating if a swap occurred.
