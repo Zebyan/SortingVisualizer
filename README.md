@@ -5,7 +5,7 @@
 # Overview
 The Sorting Visualizer allows users to see real-time animations of different sorting algorithms as they work on random arrays. The application consists of:
 
-  - Frontend: A React application that provides a modern, tech-inspired UI with animated sorting visualizations, adjustable array sizes, speed controls, and a tutorial overlay for first-time users.
+  - Frontend: A React application that provides a modern, tech-inspired UI with animated sorting visualizations, adjustable array sizes and, speed controls.
   - Backend: A Spring Boot (Java) API that processes sorting requests and returns step-by-step sorting steps for multiple algorithms (Quick Sort, Merge Sort, Bubble Sort, Selection Sort).
 
 #Features
